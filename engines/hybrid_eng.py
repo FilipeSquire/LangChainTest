@@ -315,7 +315,7 @@ class HybridEngine():
     
     def _generate_ppt(self, response):
 
-        ppt_path = '/Users/felipesilverio/Documents/GitHub/LangChainTest/output/try2.pptx'
+        ppt_path = './LangChainTest/output/try2.pptx'
         pdf_context = response
 
         my_prompt = f"""
@@ -329,7 +329,7 @@ class HybridEngine():
         {pdf_context}
         """
         ppt_response = self.chain_with_sources.invoke(my_prompt)
-        self._replace_placeholder_text('/Users/felipesilverio/Documents/GitHub/LangChainTest/backupppt.pptx', 'Company Snapshot', ppt_response['response'], ppt_path)
+        self._replace_placeholder_text('./LangChainTest/backupppt.pptx', 'Company Snapshot', ppt_response['response'], ppt_path)
 
 
         my_prompt = f"""
