@@ -10,5 +10,4 @@ tiktoken
 langchain-community
 langchain-openai
 langchain-groq
-python-poppler
 pymupdf
