@@ -11,5 +11,4 @@ langchain-community
 langchain-openai
 langchain-groq
 python-poppler
-poppler-utils
 pymupdf
