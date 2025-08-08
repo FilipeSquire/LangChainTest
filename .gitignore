@@ -1,4 +1,6 @@
 ./images
 .env
+./local_run/.env
+./local_run/engines/.env
 ./engines/.env
 ./figures/

@@ -3,8 +3,8 @@ import streamlit as st
 from langchain.callbacks import get_openai_callback
 from engines.hybrid_eng import HybridEngine
 from engines.profile_creator_eng import ProfileCreator
-from engine1 import EngineApprentice
-from engine2 import EngineJedi
+from engines.engine1 import EngineApprentice
+from engines.engine2 import EngineJedi
 import os
 import time 
 # Use cache_resource for unpickleable engine objects

@@ -1,0 +1,14 @@
+langchain
+pypdf2
+python-dotenv
+streamlit
+unstructured[all-docs]
+pillow
+lxml
+chromadb
+tiktoken
+langchain-community
+langchain-openai
+langchain-groq
+pymupdf
+opencv-python
