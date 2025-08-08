@@ -12,3 +12,6 @@ langchain-openai
 langchain-groq
 pymupdf
 opencv-python
+reportlab
+python-pptx
+rank-bm25
