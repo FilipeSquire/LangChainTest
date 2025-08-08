@@ -15,7 +15,7 @@ from base64 import b64decode
 import hashlib
 import pickle
 import os
-from prompts import system_finance_prompt
+from engines.prompts import system_finance_prompt
 import time
 import io
 from reportlab.lib.pagesizes import letter

@@ -14,7 +14,7 @@ from langchain.retrievers import BM25Retriever, EnsembleRetriever
 from langchain_core.runnables import RunnablePassthrough, RunnableLambda
 from langchain_core.messages import SystemMessage, HumanMessage
 from base64 import b64decode
-from prompts import system_finance_prompt
+from engines.prompts import system_finance_prompt
 from base64 import b64decode, b64decode as _b64
 import re
 import time
