@@ -4,10 +4,34 @@ Using only the attached documents as sources, identify:
 
  
 
-Where Walmart is investing in artificial intelligence. How is Walmart using artificial intelligence in its business activities?
+Where Walmart is investing in artificial intelligence. 
+
+R: Walmart is investing in artificial intelligence across various aspects of its operations, including enhancing customer experience, optimizing inventory management, and improving associate tools. Specifically, the company is utilizing AI and generative AI for forecasting, automating processes within fulfillment centers and distribution centers, and managing complex tasks in its stores and supply chain. The focus is on responsible use while aiming to reduce technology costs and improve profitability.
+
+
+
+How is Walmart using artificial intelligence in its business activities?
+
+R: Walmart is leveraging artificial intelligence (AI) across various aspects of its operations. For instance, AI and generative AI (Gen AI) are used for forecasting demand at a granular level, which helps in placing inventory in the right locations. Walmart has been utilizing machine learning technology for a long time, and Gen AI enhances this by utilizing Transformer Technology for improved accuracy. Additionally, AI is employed to clean up catalog content submitted by sellers, ensuring better product matching. Overall, AI impacts customer experience, inventory management, and operational efficiency, demonstrating Walmart's commitment to integrating technology into its business activities.
+
 Any growth areas identified for future artificial intelligence use in the business or within the retail sector
-What value artificial intelligence is delivering for key areas of the business including for its customers and supply chains
+
+R: The text mentions several growth areas for future artificial intelligence use in Walmart's business, including:
+
+Expansion of the personal shopping assistant, Sparky, which will help customers explore products and complete shopping tasks.
+Development of Wally, an AI assistant for merchants that will evolve into an AI agent for inventory management and sales performance analysis.
+Enhanced use of AI tools by developers and engineers in the development lifecycle, including planning, coding, testing, and troubleshooting.
+Integration of AI across various business segments and geographies to improve efficiency and reduce costs.
+Overall improvements in decision-making through physical AI that mimics complex environments in stores and supply chains.
+
+What value artificial intelligence is delivering for key areas of the business including for its customers and supply chains?
+
+R: Artificial intelligence is delivering significant value by enhancing various key areas of the business. For customers, AI improves personalization and anticipates their needs, leading to better customer experiences. For supply chains, AI aids in inventory management by analyzing sales performance, diagnosing under or overperforming items, and optimizing inventory flow decisions. Overall, AI technology enables a more efficient and nimble operation, ultimately reducing costs and improving sales.
+
+
 What metrics are being used to determine the overall return on investment of artificial intelligence systems
+
+R: 
  
 
  
