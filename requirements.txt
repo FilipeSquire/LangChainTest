@@ -15,5 +15,4 @@ reportlab
 python-pptx
 rank-bm25
 pysqlite3
-pysqlite
 pysqlite3-binary
