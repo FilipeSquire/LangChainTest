@@ -16,3 +16,4 @@ python-pptx
 rank-bm25
 pysqlite3-binary
 chromadb
+python-poppler
