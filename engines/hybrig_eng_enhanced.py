@@ -6,6 +6,13 @@ import base64
 import binascii
 from typing import Any, Iterable, List, Optional, Tuple, Dict
 
+try:
+    import pysqlite3  # bundled modern sqlite
+    import sys
+    sys.modules["sqlite3"] = sys.modules.pop("pysqlite3")
+except Exception:
+    pass
+
 from dotenv import load_dotenv
 from unstructured.partition.pdf import partition_pdf
 
