@@ -19,7 +19,7 @@ from unstructured.partition.pdf import partition_pdf
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_openai import ChatOpenAI, OpenAIEmbeddings
 from langchain_core.output_parsers import StrOutputParser
-from langchain_community.vectorstores import Chroma  # v0.2 import
+from langchain.vectorstores import Chroma  # v0.2 import
 from langchain.storage import InMemoryStore
 from langchain_core.documents import Document
 from langchain.retrievers.multi_vector import MultiVectorRetriever
