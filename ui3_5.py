@@ -33,8 +33,8 @@ def text_engine_cached_multi(files_bytes: Tuple[bytes, ...], files_names: Tuple[
 
 # ---- App -------------------------------------------------------------------
 def main():
-    st.set_page_config(page_title="GT Oraculum")
-    st.title("GT Oraculum")
+    st.set_page_config(page_title="Oraculum")
+    st.title("Oraculum")
     output_placeholder = st.empty()
 
     st.write(
