@@ -14,5 +14,4 @@ opencv-python
 reportlab
 python-pptx
 rank-bm25
-pysqlite3
 pysqlite3-binary
